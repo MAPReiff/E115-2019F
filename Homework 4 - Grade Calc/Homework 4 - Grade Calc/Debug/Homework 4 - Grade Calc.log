@@ -1,0 +1,6 @@
+﻿  Homework 4 - Grade Calc.cpp
+C:\Users\Mitchell\OneDrive - stevens.edu\Semester 1 2019-2020\E115\repos\Homework 4 - Grade Calc\Homework 4 - Grade Calc\Homework 4 - Grade Calc.cpp(61,56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mitchell\OneDrive - stevens.edu\Semester 1 2019-2020\E115\repos\Homework 4 - Grade Calc\Homework 4 - Grade Calc\Homework 4 - Grade Calc.cpp(106,27): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\Mitchell\OneDrive - stevens.edu\Semester 1 2019-2020\E115\repos\Homework 4 - Grade Calc\Homework 4 - Grade Calc\Homework 4 - Grade Calc.cpp(140,28): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\Mitchell\OneDrive - stevens.edu\Semester 1 2019-2020\E115\repos\Homework 4 - Grade Calc\Homework 4 - Grade Calc\Homework 4 - Grade Calc.cpp(173,28): warning C4804: '<': unsafe use of type 'bool' in operation
+  Homework 4 - Grade Calc.vcxproj -> C:\Users\Mitchell\OneDrive - stevens.edu\Semester 1 2019-2020\E115\repos\Homework 4 - Grade Calc\Debug\Homework 4 - Grade Calc.exe
