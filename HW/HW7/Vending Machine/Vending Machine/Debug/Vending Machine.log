@@ -1,0 +1,6 @@
+﻿  Vending Machine.cpp
+C:\Users\Mitchell\OneDrive - stevens.edu\Semester 1 2019-2020\E115\repos\Homework 7\Vending Machine\Vending Machine\Vending Machine.cpp(134,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mitchell\OneDrive - stevens.edu\Semester 1 2019-2020\E115\repos\Homework 7\Vending Machine\Vending Machine\Vending Machine.cpp(156,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mitchell\OneDrive - stevens.edu\Semester 1 2019-2020\E115\repos\Homework 7\Vending Machine\Vending Machine\Vending Machine.cpp(178,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mitchell\OneDrive - stevens.edu\Semester 1 2019-2020\E115\repos\Homework 7\Vending Machine\Vending Machine\Vending Machine.cpp(200,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Vending Machine.vcxproj -> C:\Users\Mitchell\OneDrive - stevens.edu\Semester 1 2019-2020\E115\repos\Homework 7\Vending Machine\Debug\Vending Machine.exe
