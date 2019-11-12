@@ -72,7 +72,7 @@ int main()
 
 	cout << "========= Stevens Bank =========" << endl;
 	cout << "Welcome to the Stevens Bank.\nIn order to check your balance, please type BAL.\nTo deposit cash, please type depositCash.\nTo deposit a check, please type depositCheck.\nIn order to withdraw cash, please type withdraw.\nTo exit, please type exit.\n";
-	cout << "================================\n\n\n";
+	cout << "================================\n\n";
 
 	while (input != "exit") {
 
@@ -85,21 +85,21 @@ int main()
 
 		if (input == "depositcash") {
 			float inputNum;
-			cout << "\n\n\nHow much cash would you like to deposit? There is a minimum of 0.01 and a maximum of 99.99.\n\n\n";
+			cout << "\n\nHow much cash would you like to deposit? There is a minimum of 0.01 and a maximum of 99.99.\n\n";
 			cin >> inputNum;
 			stevensBank.addCash(inputNum);
 		}
 
 		if (input == "depositcheck") {
 			float inputNum;
-			cout << "\n\n\nHow much is the check worth?\n\n\n";
+			cout << "\n\nHow much is the check worth?\n\n";
 			cin >> inputNum;
 			stevensBank.addCheck(inputNum);
 		}
 
 		if (input == "withdraw") {
 			float inputNum;
-			cout << "\n\n\nHow much would you like to withdraw? It must be a multiple of 20 between 20 and 200.\n\n\n";
+			cout << "\n\nHow much would you like to withdraw? It must be a multiple of 20 between 20 and 200.\n\n";
 			cin >> inputNum;
 			stevensBank.withdraw(inputNum);
 		}
