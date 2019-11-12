@@ -1,3 +1,4 @@
 ﻿  Bank.cpp
-C:\Users\Mitchell\OneDrive - stevens.edu\Semester 1 2019-2020\E115\repos\Homework 8\Bank\Bank\Bank.cpp(104,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-  Bank.vcxproj -> C:\Users\Mitchell\OneDrive - stevens.edu\Semester 1 2019-2020\E115\repos\Homework 8\Bank\Debug\Bank.exe
+F:\Documents\GitHub\E115-F19\HW\HW8\Bank\Bank\Bank.cpp(104,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  LINK : F:\Documents\GitHub\E115-F19\HW\HW8\Bank\Debug\Bank.exe not found or not built by the last incremental link; performing full link
+  Bank.vcxproj -> F:\Documents\GitHub\E115-F19\HW\HW8\Bank\Debug\Bank.exe
